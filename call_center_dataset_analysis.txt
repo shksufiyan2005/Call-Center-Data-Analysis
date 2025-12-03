@@ -1,0 +1,27 @@
+
+Task Description:
+
+Participants are expected to analyze the call center dataset to identify patterns, trends, and actionable insights. 
+They should focus on leveraging the available data to achieve the following specific objectives:
+
+1. Agent Performance Evaluation:
+   - Analyze individual agent performance based on metrics like resolution rate, average talk duration, and customer satisfaction ratings.
+   - Identify top-performing agents and those who may need additional training or support.
+
+2. Call Topic Insights:
+   - Determine the distribution and frequency of different call topics.
+   - Identify any trends or patterns in call topics over time.
+   - Provide recommendations for training or resource allocation based on the prevalence of certain topics.
+
+3. Service Level Optimization:
+   - Assess the overall service level by analyzing metrics such as speed of answer, resolution rate, and customer satisfaction.
+   - Identify peak hours and low-service periods to recommend staffing adjustments.
+
+4. Objectives:
+
+- Insight Generation: Uncover meaningful insights that can inform decision-making and strategy for the call center.
+- Actionable Recommendations: Provide concrete, actionable recommendations based on data analysis to improve call center performance.
+
+Participants should aim to present their findings and recommendations clearly and compellingly, demonstrating how their analysis can 
+lead to tangible improvements in call center operations. The ultimate goal is to leverage data to enhance efficiency, 
+improve customer satisfaction, and optimize resource allocation.
